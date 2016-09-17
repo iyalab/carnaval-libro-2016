@@ -8,7 +8,7 @@ http://playground.arduino.cc/Main/CapacitiveSensor?from=Main.CapSense
 
 Las conexiónes de los cables se plantearon de la siguiente manera:
 
-Imagen de arduino
+![Conexion para sensor/cable capacitivo](https://raw.githubusercontent.com/orejuelajd/carnaval-libro-2016/master/registros/registros-imagenes/CapSense.gif)
 
 La longitud de los cables es de 2 metros, el problema de los sensores capacitivos es que el cable no puede ser muy largo pues esto hace que hayan interferencias o perdidas en la señal eléctrica enviada por el usuario al tocar el sensor (cable).
 
