@@ -1,6 +1,6 @@
 # Tejidos interactivos
 
-Hablar sobre la descripción del sistema...
+Descripción e información general del sistema...
 
 
  
