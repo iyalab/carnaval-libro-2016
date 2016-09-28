@@ -16,3 +16,8 @@ La longitud de los cables que toca el usuario es de 4.30 metros, para esta alter
 El resultado de esta alternativa de sistema es el siguiente:
 
 https://www.youtube.com/watch?v=VFNwn3l0d-Q&feature=youtu.be
+
+Avance No. 3 - Maqueta funcional:
+
+https://www.youtube.com/watch?v=IHjfttyk8Po&feature=youtu.be
+
