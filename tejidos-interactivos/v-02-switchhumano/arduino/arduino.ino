@@ -6,7 +6,7 @@ int valorcd4 = 0;
 int valorcd5 = 0;
 int valorcd6 = 0;
 
-int umbral = 700;
+int umbral = 900;
 
 void setup() {
   // put your setup code here, to run once:
@@ -16,12 +16,12 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
   valorcd0 = analogRead(A0);
-  valorcd1 = analogRead(A1);
-  valorcd2 = analogRead(A2);
-  valorcd3 = analogRead(A3);
-  valorcd4 = analogRead(A4);
-  valorcd5 = analogRead(A5);
-  valorcd6 = analogRead(A6);
+  valorcd1 = analogRead(A3);
+  valorcd2 = analogRead(A5);
+  valorcd3 = analogRead(A7);
+  valorcd4 = analogRead(A10);
+  valorcd5 = analogRead(A12);
+  valorcd6 = analogRead(A15);
   
   if(valorcd0 < umbral){
     Serial.print("a");
@@ -45,5 +45,5 @@ void loop() {
     Serial.print("g");
   }
   Serial.println(" ");
-  delay(100);
+  delay(500);
 }
